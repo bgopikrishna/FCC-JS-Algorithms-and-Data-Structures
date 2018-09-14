@@ -1,2 +1,2 @@
 # FCC-JS-Algorithms-and-Data-Structures-
- <a href="https:// freeCodeCamp.org">freeCodeCamp</a> JavaScript Algorithms and Data Structures Projects.
+ <ahref=https://www.freecodecamp.org/bgopikrishna">freeCodeCamp</a> JavaScript Algorithms and Data Structures Projects.
